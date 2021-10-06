@@ -1,0 +1,28 @@
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\bin\Debug\EasyInfoMaker.exe.config
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\bin\Debug\EasyInfoMaker.exe
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\bin\Debug\EasyInfoMaker.pdb
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.csprojResolveAssemblyReference.cache
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.FirstPage.resources
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.Properties.Resources.resources
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.csproj.GenerateResource.Cache
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.exe
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.pdb
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.AboutPage.resources
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.AmorousTextOnePage.resources
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.AmorousTextTwoPage.resources
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.AmorousTextThreePage.resources
+C:\Users\KAM\Desktop\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.AmorousTextFourPage.resources
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\bin\Debug\EasyInfoMaker.exe.config
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.exe
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.pdb
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\bin\Debug\EasyInfoMaker.exe
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\bin\Debug\EasyInfoMaker.pdb
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.csprojResolveAssemblyReference.cache
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.AboutPage.resources
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.AmorousTextFourPage.resources
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.AmorousTextOnePage.resources
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.AmorousTextThreePage.resources
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.AmorousTextTwoPage.resources
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.FirstPage.resources
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.Properties.Resources.resources
+D:\FIles\My Projects\EasyInfoMaker\SoftWare\EasyInfoMaker\EasyInfoMaker\EasyInfoMaker\obj\Debug\EasyInfoMaker.csproj.GenerateResource.Cache
