@@ -1,0 +1,10 @@
+C:\Users\Kiarash Yoosefi\Desktop\COMMinimize\COMMinimize\bin\Debug\COMMinimize.exe.config
+C:\Users\Kiarash Yoosefi\Desktop\COMMinimize\COMMinimize\bin\Debug\COMMinimize.exe
+C:\Users\Kiarash Yoosefi\Desktop\COMMinimize\COMMinimize\bin\Debug\COMMinimize.pdb
+C:\Users\Kiarash Yoosefi\Desktop\COMMinimize\COMMinimize\obj\Debug\COMMinimize.csprojAssemblyReference.cache
+C:\Users\Kiarash Yoosefi\Desktop\COMMinimize\COMMinimize\obj\Debug\COMMinimize.Form1.resources
+C:\Users\Kiarash Yoosefi\Desktop\COMMinimize\COMMinimize\obj\Debug\COMMinimize.Properties.Resources.resources
+C:\Users\Kiarash Yoosefi\Desktop\COMMinimize\COMMinimize\obj\Debug\COMMinimize.csproj.GenerateResource.cache
+C:\Users\Kiarash Yoosefi\Desktop\COMMinimize\COMMinimize\obj\Debug\COMMinimize.csproj.CoreCompileInputs.cache
+C:\Users\Kiarash Yoosefi\Desktop\COMMinimize\COMMinimize\obj\Debug\COMMinimize.exe
+C:\Users\Kiarash Yoosefi\Desktop\COMMinimize\COMMinimize\obj\Debug\COMMinimize.pdb
